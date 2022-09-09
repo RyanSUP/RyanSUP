@@ -1,6 +1,6 @@
 ### 👨‍💻
 
-I like keeping things neat with testable, composable code. I'm looking forward to gettting my hands dirty with Jest testing, AWS and more React. I just got into Tailwind and -- oof -- utility-first CSS is 😙🤌.
+I like keeping things neat with testable, composable code. Lately I've been gettting my hands dirty with testing, AWS and React.
 
 
 You'll also find me noodling on my guitar 🎸, or at a table playing board games with my people. 
